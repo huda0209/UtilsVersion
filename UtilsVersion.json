@@ -1,4 +1,5 @@
 {
   "color" : "2.0.1",
-  "logger" : "3.0.1"
+  "logger" : "3.0.1",
+  "equalChecker" : "1.0.0"
 }
