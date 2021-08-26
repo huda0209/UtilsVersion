@@ -1,6 +1,6 @@
 {
   "color" : "2.0.2",
-  "logger" : "3.0.2",
+  "logger" : "3.1.0",
   "equalChecker" : "1.0.2",
-  "logFIle" : "1.0.1"
+  "logFIle" : "1.0.2"
 }
